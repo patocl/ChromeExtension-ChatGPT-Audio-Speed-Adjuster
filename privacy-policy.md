@@ -1,8 +1,8 @@
-## Privacy Policy for Udemy Playback Control Extension
+## Privacy Policy for ChatGPT™ Audio Speed Adjuster
 
 ### Personal Information
 
-The Udemy Playback Control Extension does not collect or store any personal information. It does not require any form of account creation or login, and it does not track or store user activity.
+The **ChatGPT™ Audio Speed Adjuster** Extension does not collect or store any personal information. It does not require any form of account creation or login, and it does not track or store user activity.
 
 ### Non-Personal Information
 
