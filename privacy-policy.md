@@ -26,4 +26,4 @@ This Privacy Policy may be updated from time to time. Any changes will be posted
 
 ### Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, please contact me at patoescl@gmail.com.
+If you have any questions or suggestions about this Privacy Policy, please contact me at **patoescl@gmail.com**.
